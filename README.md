@@ -1,5 +1,5 @@
 # CommAuto
-Edge-to-server data transmission solution based on ActiveMQ
+Edge-to-server data transmission solution based on ActiveMQ message broker
 
 For detail, read the ppt
 
